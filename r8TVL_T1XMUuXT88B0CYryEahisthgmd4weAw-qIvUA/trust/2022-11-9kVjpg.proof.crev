@@ -14,3 +14,22 @@ trust: high
 w8yG3iF3SYzkiUy_YuXL4JNsQyTAnia1vUWTcAC4P6dD5pVv4srTS8aBHiuWTq4TmSOszXWxLDcDfjU5CJriBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-11-02T23:30:08.948788+01:00
+from:
+  id-type: crev
+  id: r8TVL_T1XMUuXT88B0CYryEahisthgmd4weAw-qIvUA
+  url: https://github.com/dthul/crev-proofs
+ids:
+- id-type: crev
+  id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+  url: https://github.com/BurntSushi/crev-proofs
+trust: high
+comment: |-
+  It's BurntSushi
+----- SIGN CREV PROOF -----
+feHA5eNDuq0s7JvGazuZVtLPESq5mHmYv70FOpZV1TX00CaoCb3wm2c-p-rNUU-kVyToB-pOuu5IG7R6tfhHBg
+----- END CREV PROOF -----
+
