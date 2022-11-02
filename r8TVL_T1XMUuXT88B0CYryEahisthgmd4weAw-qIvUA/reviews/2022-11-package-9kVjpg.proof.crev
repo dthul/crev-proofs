@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-11-02T23:19:43.858494+01:00
+from:
+  id-type: crev
+  id: r8TVL_T1XMUuXT88B0CYryEahisthgmd4weAw-qIvUA
+  url: https://github.com/dthul/crev-proofs
+package:
+  source: https://crates.io
+  name: tower-service
+  version: 0.3.2
+  revision: 04527aeb439761875a3e4f96d2090622731bc719
+  digest: blvOyp6EPF1e2ssC0aQfylS8y9C5CtVThJ7Xjf1REzo
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Just a trait definition and trivial impls, no unsafe code.
+----- SIGN CREV PROOF -----
+-m4qMbctc7HgkMle91H97SqXBPAOoCMdmkpo-4Gl87Bql64QTdjKdPmOch158QsPrpOLp8rk19WRviWVlW4eDw
+----- END CREV PROOF -----
+
